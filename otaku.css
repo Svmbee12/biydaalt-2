@@ -1,0 +1,22 @@
+body {
+  font-family: "Poppins", sans-serif;
+  padding-top: 70px; /* navbar space */
+}
+
+.bg-gradient {
+  background: linear-gradient(180deg, #000000, #2b2b2b);
+  color: white;
+}
+
+.navbar-brand img {
+  border-radius: 50%;
+}
+
+.hero-section {
+  background: url('img/hero-bg.jpg') center/cover no-repeat;
+  color: white;
+}
+
+h1 span {
+  color: #ffc107;
+}
